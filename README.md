@@ -78,3 +78,4 @@ Check your .env file for any missing or incorrect values.
 This structure will help other developers (and yourself) set up the project easily by providing all necessary details for environment configuration and running the project.
 
 
+# CI-CD
