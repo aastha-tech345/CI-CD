@@ -13,7 +13,7 @@ This is a simple MERN (MongoDB, Express, React, Node.js) project. Follow the ste
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-project.git
+git clone https://github.com/your-username/your-project.git](https://github.com/aastha-tech345/CI-CD.git
 
 To start frontend > >
 cd Portfolio
